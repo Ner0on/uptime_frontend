@@ -1,0 +1,10 @@
+.article-img {
+  width: 150px;
+  height: 80px;
+}
+@media screen and (max-width: 600px){
+  .article-img {
+    float: left !important;
+    margin-right: 10px;
+  }
+}
